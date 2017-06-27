@@ -1,4 +1,4 @@
-# React-fanct-consumer
+# React-fancy-consumer
 This is a demo web app that consumes [react-fancy-component](https://github.com/prajapati-parth/react-fancy-component)
 
 ## Steps
